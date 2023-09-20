@@ -1,1 +1,2 @@
-# WTthankyou
+# ThankYou
+Thank you for visiting!
